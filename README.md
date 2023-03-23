@@ -31,6 +31,7 @@ The structure as follows:
 - Test The Network
 
 The performance of the pre-trained model shows accurate similarity.
+
 <img src='Images/Pre1.png' alt='VGGFace Result'>
 - Similarity Score = 0.33137047290802
 - The images are similar
