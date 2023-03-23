@@ -33,18 +33,22 @@ The structure as follows:
 The performance of the pre-trained model shows accurate similarity.
 
 <img src='Images/Pre1.png' alt='VGGFace Result'>
+
 - Similarity Score = 0.33137047290802
 
 - The images are similar
 <img src='Images/Pre2.png' alt='VGGFace Result'>
+
 - Similarity Score = 0.42168527841567993
 
 - The images aren't similar
 <img src='Images/Pre3.png' alt='VGGFace Result'>
+
 - Similarity Score = 0.41622310876846313
 
 - The images aren't similar
 <img src='Images/Pre4.png' alt='VGGFace Result'>
+
 - Similarity Score = 0.32001131772994995
 
 - The images are similar
