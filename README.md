@@ -32,6 +32,8 @@ The structure as follows:
 
 The performance of the pre-trained model shows accurate similarity.
 
+Based on the threshold 0.40:
+
 <img src='Images/Pre1.png' alt='VGGFace Result'>
 
 - Similarity Score = 0.33137047290802
