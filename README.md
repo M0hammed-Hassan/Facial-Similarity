@@ -14,7 +14,9 @@ I have created siamese network architecture then training and testing it. The st
 - Testing The Network
 
 Loss:
+
 <img src='Images/loss.png' alt='Loss'>
+
 A sample of the testing data is necessary to determine how well the Siamese network performs.
 
 <img src='Images/Res1.png' alt='Siamese Result'>              
