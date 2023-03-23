@@ -13,5 +13,5 @@ I have created siamese network architecture then training and testing it. The st
 - Training The Network
 - Testing The Network
 A sample of the testing data is necessary to determine how well the Siamese network performs.
-<img src='Images/Res1.png' alt='Siamese Result'>
+<img src='Images/Res1.png' alt='Siamese Result'>              <img src='Images/Res2.png' alt='Siamese Result'>
 
