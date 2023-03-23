@@ -20,4 +20,4 @@ A sample of the testing data is necessary to determine how well the Siamese netw
 <img src='Images/Res7.png' alt='Siamese Result'>
 <img src='Images/Res8.png' alt='Siamese Result'>
 <img src='Images/Res9.png' alt='Siamese Result'>
-<a> herf='https://www.kaggle.com/datasets/kasikrit/att-database-of-faces'>Data Link</a>
+<a herf='https://www.kaggle.com/datasets/kasikrit/att-database-of-faces'>Data Link</a>
