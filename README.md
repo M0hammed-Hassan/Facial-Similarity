@@ -16,8 +16,6 @@ A sample of the testing data is necessary to determine how well the Siamese netw
 <img src='Images/Res1.png' alt='Siamese Result'>              
 <img src='Images/Res2.png' alt='Siamese Result'>
 <img src='Images/Res3.png' alt='Siamese Result'>
-<img src='Images/Res4.png' alt='Siamese Result'>
-<img src='Images/Res5.png' alt='Siamese Result'>
 <img src='Images/Res6.png' alt='Siamese Result'>
 <img src='Images/Res7.png' alt='Siamese Result'>
 <img src='Images/Res8.png' alt='Siamese Result'>
