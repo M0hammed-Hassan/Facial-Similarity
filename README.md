@@ -3,7 +3,7 @@ This project helps to discover if the given two images are similar or not.
 
 I have implemented this project in two ways:
 
-#### Creating Siamese Network From Scratch
+# Creating Siamese Network From Scratch
 I have created siamese network architecture then training and testing it. The structure as follows:
 - Importing The Dependencies
 - Loading The Data
